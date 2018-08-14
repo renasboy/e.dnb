@@ -1,0 +1,9 @@
+{
+    "name": "Melkweg",
+    "address": {
+        "country": "The Netherlands",
+        "city": "Amsterdam",
+        "street": "Lijnbaansgracht",
+        "number": "111"
+    }
+}

@@ -54,9 +54,17 @@
 
 - event
     - name
-    - location
+    - venue (relation)
     - date start
     - date end
+
+- venue
+    - name
+    - address
+        - country
+        - city
+        - street
+        - number
 
 - room/area
     - name
