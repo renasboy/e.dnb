@@ -1,0 +1,12 @@
+#!/bin/bash
+
+cat src/LABELS_* | tr A-Z a-z | sed -e 's/ \& / and /g' -e 's/\&/and/g' | sort -u > src/ALL_LABELS
+
+echo "LABELS WITH CHAR IN THE NAME OTHER THAN a-z (and space)"
+echo 
+egrep -e "[^a-z ]+" src/ALL_LABELS
+
+echo
+echo "LABELS WITH CHAR IN THE NAME OTHER THAN a-z0-9 (and space)"
+echo
+egrep -e "[^a-z0-9 ]+" src/ALL_LABELS

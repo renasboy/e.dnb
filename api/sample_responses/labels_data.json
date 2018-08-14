@@ -1,0 +1,184 @@
+[
+    {
+        "name": "RAM Records",
+        "year": 1992,
+        "logo": "RAM.png",
+        "link": "http://www.ramrecords.com",
+        "artists": "Andy C, Sub Focus, Loadstar, Wilkinson, Calyx & Teebee, Delta Heavy, Rene LaVice"
+    },
+    {
+        "name": "Metalheadz",
+        "year": 1994,
+        "logo": "Metalheadz.png",
+        "link": "http://www.metalheadz.co.uk",
+        "artists": "Goldie, Ed Rush & Optical, Doc Scott, Noisia, Jubei, Mikal, Lenzman, Rido"
+    },
+    {
+        "name": "V Recordings",
+        "year": 1994,
+        "logo": "V-Recordings.png",
+        "link": "http://www.vrecordings.com",
+        "artists": "Roni Size, DJ Die, Krust, Suv, DJ Marky, Dillinja, Bryan Gee"
+    },
+    {
+        "name": "Hospital Records",
+        "year": 1996,
+        "logo": "Hospital-Records.png",
+        "link": "http://www.hospitalrecords.com",
+        "artists": "London Elektricity, High Contrast, Netsky, Logistics, Nu:Tone, S.P.Y, Danny Byrd"
+    },
+    {
+        "name": "Commercial Suicide",
+        "year": 2001,
+        "logo": "Comercial-Suicide.png",
+        "link": "http://www.commercialsuicide.org",
+        "artists": "Klute, Nymfo, Mindscape"
+    },
+    {
+        "name": "Critical Music",
+        "year": 2002,
+        "logo": "Critical-Music.png",
+        "link": "http://www.criticalmusic.com",
+        "artists": "Kasra, Breakage, Break, Silent Witness, Enei, Foreign Concept, Ivy Lab"
+    },
+    {
+        "name": "Viper Recordings",
+        "year": 2003,
+        "logo": "Viper-Recordings.png",
+        "link": "http://www.viperrecordings.co.uk",
+        "artists": "Futurebound, Nero, Camo & Krooked, Sigma, Metrik, Seven Lions, DC Breaks, ShockOne, InsideInfo, Smooth, Matrix"
+    },
+    {
+        "name": "Shogun Audio",
+        "year": 2004,
+        "logo": "Shogun-Audio.png",
+        "link": "http://www.shogunaudio.co.uk",
+        "artists": "Friction, The Prototypes, Rockwell, Alix Perez, Spectrasoul, Stakka & Skynet"
+    },
+    {
+        "name": "Playaz Recordings",
+        "year": 2007,
+        "logo": "Playaz.png",
+        "link": "http://www.playaz.co.uk",
+        "artists": "DJ Hype, Pascal, DJ Hazard, Original Sin, Taxman, Sub Zero, Gridlok, Placid, Prolix, Need for Mirrors, Optiv & BTK"
+    },
+    {
+        "name": "Ingredients",
+        "year": 2009,
+        "logo": "Ingredients.png",
+        "link": "http://www.facebook.com/ingredientsrec",
+        "artists": "Marcus Intalex, Spirit, Genotype, Jubei, Skeptical, Dub Phizix, Krakota"
+    },
+    {
+        "name": "Virus",
+        "year": 1998,
+        "logo": "Virus.png",
+        "link": "http://www.facebook.com/VirusRecordings",
+        "artists": "Ed Rush & Optical, Fierce, Matrix, MC Ryme Tyme, Bad Company, Cause 4 Concern, Audio, Optiv & BTK"
+    },
+    {
+        "name": "Vision",
+        "year": 2010,
+        "logo": "Vision.png",
+        "link": "http://visionrecordings.nl",
+        "artists": "Noisia"
+    },
+    {
+        "name": "Samurai",
+        "year": 1900,
+        "logo": "Samurai.png",
+        "link": "http://www.",
+        "artists": ""
+    },
+    {
+        "name": "Paradox",
+        "year": 1900,
+        "logo": "Paradox.png",
+        "link": "http://www.",
+        "artists": ""
+    },
+    {
+        "name": "Exit",
+        "year": 1900,
+        "logo": "Exit.png",
+        "link": "http://www.",
+        "artists": ""
+    },
+    {
+        "name": "Renegade Hardware",
+        "year": 1995,
+        "logo": "Renegade-Hardware.png",
+        "link": "http://www.renegadehardware.co.uk",
+        "artists": "Future Forces, Usual Suspects, Future Cut, Konflict, Ink & Loxy, Pendulum, Noisia, Friction, Spor, Chase & Status and Maztek"
+    },
+    {
+        "name": "Blackout",
+        "year": 2012,
+        "logo": "Blackout.png",
+        "link": "http://www.blackoutmusic.nl",
+        "artists": "Black Sun Empire, Audio, BTK, Concept Vision, Neonlight, Optiv, Pythus, Segment, State of Mind, Telekinesis, The Upbeats"
+    },
+    {
+        "name": "Bad Taste",
+        "year": 2007,
+        "logo": "Bad-Taste.png",
+        "link": "http://www.badtasterecordings.com",
+        "artists": "Maldini, The Upbeats, Blokhe4d, Loki, Prolix, Royalston, Teddy Killerz, Bad Company UK"
+    },
+    {
+        "name": "Spearhead Records",
+        "year": 2005,
+        "logo": "Spearhead-Records.png",
+        "link": "http://www.spearheadrecords.co.uk",
+        "artists": "BCEE, Hybrid Minds, Calibre, Jonny L"
+    },
+    {
+        "name": "Good Looking",
+        "year": 1991,
+        "logo": "Good-Looking.png",
+        "link": "http://www.goodlookingstore.com",
+        "artists": "LTJ Bukem, Photek, Blame, Q Project, Blu Mar Ten, Seba, Makoto, Big Bud, Nookie, MC D.R.S., Furney, Redeyes, Future Engineers, PFM, Peshay, Intense, Phazer"
+    },
+    {
+        "name": "Fokuz",
+        "year": 1999,
+        "logo": "Fokuz.png",
+        "link": "http://fokuzrecordings.com",
+        "artists": "Bcee, Lomax, Alix Perez, Black Sun Empire, Fourward, Greg Packer, Syncopix, Komatic, Technicolor, Icicle"
+    },
+    {
+        "name": "Soul:R",
+        "year": 2001,
+        "logo": "Soul-R.png",
+        "link": "http://soulr.com",
+        "artists": "Marcus Intalex and S.T Files, Lynx, DRS, Dub Phizix, Lenzman, S.P.Y., Calibre, dBridge"
+    },
+    {
+        "name": "Horizons",
+        "year": 2005,
+        "logo": "Horizons.png",
+        "link": "http://www.horizonsmusic.co.uk",
+        "artists": "DLR, Need for Mirrors"
+    },
+    {
+        "name": "Moving Shadow",
+        "year": 1990,
+        "logo": "Moving-Shadow.png",
+        "link": "http://www.movingshadow.com",
+        "artists": "2 Bad Mice, Deep Blue, Foul Play, Omni Trio, Hyper-On Experience, Ray Keith, Rufige Kru, Dom and Roland, Aquasky, Calyx and EZ Rollers"
+    },
+    {
+        "name": "Full Cycle",
+        "year": 1993,
+        "logo": "Full-Cycle.png",
+        "link": "https://www.facebook.com/FullCycleRecords",
+        "artists": "Roni Size, DJ Die, DJ Suv, DJ Krust, Dynamite MC, DJ Clipz and Tali"
+    },
+    {
+        "name": "Ninja Tune",
+        "year": 1990,
+        "logo": "Ninja-Tune.png",
+        "link": "http://www.ninjatune.net",
+        "artists": "Congo Natty"
+    }
+]

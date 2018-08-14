@@ -1,0 +1,41 @@
+===================
+    PHASE ONE
+===================
+
+- search
+    - store all search queries
+
+- content
+    - labels (logo, name, year, link)
+        - artists (name, labels, location, link)
+            - releases (name, date/year, featured artists)
+                - albums LPs / EPs / Singles
+                    -tracks (duration)
+    - sub/genres (name)
+    - search (term, quantity)
+
+======================
+
+  JUNDLECLOUD / DNBCLOUD
+
+  SEARCH [ What are you looking for? ]
+
+  NEW IN [>] [>] [>] [>] [>]
+
+  LABELS [>] [>] [>] [>] [>]
+
+  PLAY [>]
+
+===================
+    PHASE TWO
+===================
+
+- content
+    - labels (history/bio)
+    - artists (bio)
+    - sub/genres (history)
+    - releases (digital booklet, downloadable content, images, links to purchase)
+
+- parties / events / gigs
+    - tickets
+

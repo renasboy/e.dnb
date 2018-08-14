@@ -1,2 +1,2 @@
 # e.dnb
-Everything DNB
+Everything Drum and Bass

@@ -1,0 +1,71 @@
+# LABELS
+
+- labels
+    - name
+    - logo
+    - year
+    - link
+    - artists (relations)
+
+# ARTISTS
+
+- artists
+    - name
+    - bio
+    - links
+    - images
+    - labels (relations with year start and end)
+    - year
+
+# DISCOGRAPHY (RELEASES)
+
+- releases
+    - name
+    - artists (relations)
+    - year
+    - label
+
+- track
+    - name
+    - artists (releases)
+    - lenght
+
+# HISTORY
+
+- dnb history
+    - year
+    - intro
+    - description
+    - labels (relations)
+    - artists (relations)
+    - media
+        - images
+        - audio
+        - video
+
+# EVENTS
+
+- room
+    - name
+    - event
+    - artists (relations)
+
+- timetable
+    - room
+    - artists (relations)
+    - time start
+    - time end
+
+- event
+    - name
+    - location
+    - date start
+    - date end
+
+# NEWS
+
+- news
+    - date
+    - title
+    - intro
+    - text
