@@ -1,0 +1,15 @@
+{
+    "name": "RAM Records",
+    "year": 1992,
+    "logo": "RAM.png",
+    "link": "http://www.ramrecords.com",
+    "artists": [
+        "/artist/andy-c",
+        "/artist/sub-focus",
+        "/artist/loadstar",
+        "/artist/wilkinson",
+        "/artist/calyx-and-Teebee",
+        "/artist/delta-heavy",
+        "/artist/rene-lavice"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "machine gun",
+    "year": 2010,
+    "length": 240, 
+    "artists": [
+        "/artist/noisia",
+        "/artist/amon-tobin"
+    ],
+    "releases": [
+        "/release/VSNCD001"
+    ]
+}

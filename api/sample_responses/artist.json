@@ -1,0 +1,12 @@
+{
+    "name": "London Elektricity",
+    "labels": [
+        "/label/hospital-records"
+    ],
+    "images": [
+        "London-Elektricity.png"
+    ],
+    "links": [
+        "http://www.hospitalrecords.com/artirts/London-Elektricity"
+    ]
+}

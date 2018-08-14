@@ -1,34 +1,41 @@
 # LABELS
 
-- labels
+- label
     - name
-    - logo
     - year
+    - logo (image)
     - link
-    - artists (relations)
+    # - artists (relations from tracks in releases from this label)
 
 # ARTISTS
 
-- artists
+- artist
     - name
+    - year
     - bio
     - links
     - images
-    - labels (relations with year start and end)
-    - year
+    # - labels (relations from tracks in releases from this artists)
 
 # DISCOGRAPHY (RELEASES)
 
-- releases
+- release
     - name
-    - artists (relations)
     - year
-    - label
+    - type (single|ep|album|cd|etc)
+    # - artists (relations from tracks in this release)
+    - label (relation)
+    - catalogue_id
+    - cover (image)
+    - images
+    - links
 
 - track
     - name
-    - artists (releases)
-    - lenght
+    - year (because it can be released again in a mixtape)
+    - artists (relations)
+    - releases (relation)
+    - length
 
 # HISTORY
 
@@ -45,22 +52,24 @@
 
 # EVENTS
 
-- room
-    - name
-    - event
-    - artists (relations)
-
-- timetable
-    - room
-    - artists (relations)
-    - time start
-    - time end
-
 - event
     - name
     - location
     - date start
     - date end
+
+- room/area
+    - name
+    - event (relation)
+    - artists (relations)
+
+- lineup
+    - room/area (relation)
+    - name
+    - artists
+    - type (dj set|b2b|live)
+    - time start
+    - time end
 
 # NEWS
 

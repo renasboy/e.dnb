@@ -1,0 +1,22 @@
+{
+    "name": "Split The Atom",
+    "year": "2010",
+    "type": "album",
+    "label": "/label/vision",
+    "catalog": "VSNCD001",
+    "tracks": [
+        "/track/machine-gun",
+        "/track/my-world",
+        "/track/shitbox",
+        "/track/split-the-atom"
+    ],
+    "cover": "/img/cover.jpg",
+    "images": [
+        "/img/cover2.jpg",
+        "/img/cover3.jpg"
+    ],
+    "links": [
+        "https://www.noisia.nl",
+        "https://www.discogs.com/Noisia-Split-The-Atom/master/274508"
+    ]
+}

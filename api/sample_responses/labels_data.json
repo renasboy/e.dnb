@@ -4,7 +4,15 @@
         "year": 1992,
         "logo": "RAM.png",
         "link": "http://www.ramrecords.com",
-        "artists": "Andy C, Sub Focus, Loadstar, Wilkinson, Calyx & Teebee, Delta Heavy, Rene LaVice"
+        "artists": [
+            "/artist/andy-c",
+            "/artist/sub-focus",
+            "/artist/loadstar",
+            "/artist/wilkinson",
+            "/artist/calyx-and-Teebee",
+            "/artist/delta-heavy",
+            "/artist/rene-lavice"
+        ]
     },
     {
         "name": "Metalheadz",
