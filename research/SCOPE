@@ -2,8 +2,8 @@ Here we list what should be in scope to implement e.dnb
 
 Implementation will be divided in two parts:
 
-1. DNB database without actual mini site runnings
-2. Launch first partners mini sites
+1. DNB database without actual mini site runnings (openDNB API)
+2. Launch first partners mini sites (e.DNB)
 
 === e.dnb is where everything dnb converges
 
