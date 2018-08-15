@@ -2,8 +2,12 @@ Here we list technologies we would like to use to implement e.dnb
 
 - Backend
     - Database
+        - postgres maybe json files
     - Session Storage
+        - redis
     - Cache
+        - memcached
     - API
+        - python / django
 
-- Frontend 
+- Frontend
